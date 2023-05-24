@@ -1,1 +1,0 @@
-# bashscript-training
